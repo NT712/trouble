@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "undyne left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "undyne up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "undyne down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "undyne right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "undyne idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/undyne",
+	"position": [
+		-390,
+		-280
+	],
+	"healthicon": "undyne",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-90,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
