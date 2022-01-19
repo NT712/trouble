@@ -1,346 +1,169 @@
 {
 	"song": {
-		"player1": "bf",
-		"song": "Bopeebo",
-		"player2": "dad",
-		"notes": [
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+		"speed": 3.2,
+		"stage": "battle",
+		"player1": "heart",
+		"player2": "sans",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
 					[
-						4290,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				105205.479452055,
+				[
 					[
-						9090,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				106849.315068493,
+				[
 					[
-						13890,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"chara"
+					]
+				]
+			],
+			[
+				111780.821917808,
+				[
+					[
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				124931.506849315,
+				[
 					[
-						18690,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				131506.849315069,
+				[
 					[
-						23490,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				133150.684931507,
+				[
 					[
-						28290,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"undyne"
+					]
+				]
+			],
+			[
+				236712.328767124,
+				[
+					[
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				238356.164383562,
+				[
 					[
-						33090,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"chara"
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				290958.904109589,
+				[
 					[
-						37890,
-						-1,
-						"Hey!",
-						"0",
+						"Change Character",
+						"dad",
+						"papyrus"
+					]
+				]
+			],
+			[
+				324121.554711999,
+				[
+					[
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				347254.084832481,
+				[
 					[
-						42690,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				405085.410133685,
+				[
 					[
-						47490,
-						-1,
-						"Hey!",
-						"0",
+						"Static",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				406621.554711998,
+				[
 					[
-						52290,
-						-1,
-						"Hey!",
-						"0",
-						""
+						"Change Character",
+						"dad",
+						"chara"
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						57090,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						61890,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						66690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						71490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						76290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
+				]
+			]
 		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": null,
 		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+		"song": "genocidal-trouble"
 	}
 }
